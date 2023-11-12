@@ -23,3 +23,4 @@ The challenge is to avoid collisions and successfully cross the road to safety.
 
    ```sh
    git clone https://github.com/aFro95/The-turtle-crossing-game.git
+ 2. Use your keyboard up and down arrow to play. 
